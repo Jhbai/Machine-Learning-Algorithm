@@ -1,6 +1,6 @@
 # Machine-Learning-Algorithm
-This is the machine learning algorithm made by myself. It will contain various method, like:
-<1> SVM
+This is the machine learning algorithm made by myself. It will contain various method, like: \\
+<1> SVM \\
 <2> logistic
 <3> Fisher Discriminant Analysis
 <4> Naive Bayesian Model
