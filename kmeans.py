@@ -1,3 +1,7 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
 class kmean:
     def __init__(self, data, k):
         self.data = data
