@@ -1,5 +1,5 @@
 # Machine-Learning-Algorithm
-This is the machine learning algorithm made by myself. It will contain various method, like: \\
+This is the machine learning algorithm made by myself. It will contain various method, like: \n
 <1> SVM \\
 <2> logistic
 <3> Fisher Discriminant Analysis
