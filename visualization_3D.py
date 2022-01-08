@@ -1,3 +1,7 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
 class Plot_3D:
     def __init__(self, data):
         self.data = data
