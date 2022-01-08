@@ -1,3 +1,7 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
 class classify_graph:
     def __init__(self, model, X, Class):
         self.xx = np.linspace(np.min(X[:,0]), np.max(X[:,0]), 200)
