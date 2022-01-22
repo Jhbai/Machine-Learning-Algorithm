@@ -21,6 +21,6 @@ class classify_graph:
         plt.figure(figsize = (8, 6))
         plt.contourf(self.xx, self.yy, zz)
         for obj in list(set(self.Class)):
-            I = np.argwhere(self.Class == obj)
+            I = np.where(self.Class == obj)[0]
             plt.scatter(X[I, 0], X[I, 1])
         plt.show()
