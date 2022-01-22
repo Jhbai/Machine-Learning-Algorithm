@@ -1,3 +1,7 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
 class Logistic_Regression:
     def __init__(self, X, y):
         self.X = X
